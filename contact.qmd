@@ -1,0 +1,22 @@
+---
+title: "Contact"
+---
+
+## Map
+
+We are protesting at the location below:
+
+
+
+<a href="https://www.google.com/maps/dir//295+Queen+Street+East,+Brampton,+ON/@43.7027893,-79.7419233,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b3e0259062997:0xfaab053af5aa884b!2m2!1d-79.7367734!2d43.7027817?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D" target="_blank">295 Queen Street East, Brampton, ON</a>
+
+
+<iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.748775471576!2d-79.74192328450186!3d43.70278927911917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3e0259062997%3A0xfaab053af5aa884b!2s295%20Queen%20St%20E%2C%20Brampton%2C%20ON%20L6W%203R1%2C%20Canada!5e0!3m2!1sen!2sin!4v1697631877293!5m2!1sen!2sin" 
+    width="600" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
